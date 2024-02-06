@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br> I'm Ugur, Backend developer from Turkey</p>
 <h3>Things I code with</h3>
-<p>https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+<p>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=docker&logoColor=white" />
   <img alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=docker&logoColor=white" />
